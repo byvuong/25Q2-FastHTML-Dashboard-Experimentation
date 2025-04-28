@@ -1,0 +1,4 @@
+python-fasthtml
+pandas
+numpy
+plotly
